@@ -1,19 +1,21 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-publisher, Publisher,
-date,Date Created,
 description,Description,
+creator,Creator,true
+publisher,Publisher,true
+contributor, Contributor,true
+recipient, Recipient,true
+date_created,Date Created,
 subject,Subjects,true
 location,Location,
-source,Source,
-findingaid,Finding Aid URL,
+source,Source Repository,
+findingaid,Finding Aid URL,,true
 relation,Source URI,
-original-collection-name-box, Source Collection Name,
+original-collection-name, Source Collection Name,
 original-collection-no,Source Collection Identification Number,
 original-accession-no,Source Collection Accession Number,
-original-identifier,Source Item Identifier,,
-type,Type,
+identifier,Source Item Identifier,,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+related_publication,Related Resources,,true
