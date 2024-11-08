@@ -9,13 +9,14 @@ date_created,Date Created,
 subject,Subjects,true
 location,Location,
 source,Source Repository,
-findingaid,Finding Aid URL,,true
+findingaid,Source Finding Aid URL,,true
 relation,Source URI,
 original-collection-name, Source Collection Name,
 original-collection-no,Source Collection Identification Number,
+original-collection-box-fl,Source Collection Box/Folder
 original-accession-no,Source Collection Accession Number,
 identifier,Source Item Identifier,,
-format,Format,
+format,File Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
 related_publication,Related Resources,,true
