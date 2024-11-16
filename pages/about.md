@@ -25,12 +25,9 @@ It is important to note that this collection is limited in focus to the main Ind
 * [The Museum of Archaeology and Anthropology](https://iumaa.iu.edu/index.html)
 
 {% include feature/pdf.html objectid="brochure_2002_001" width="50" %}
-
 ## About the Creator: Sarah Helen Carter
 
-<img src="https://supertonic2.github.io/muslib/objects/cartersh_001.jpg" alt="Photograph of Sarah Helen Carter" width=50%/>
 Sarah Helen Carter is a second-year graduate student at Indiana University Bloomington pursuing a dual MLS and MIS with dual specializations in Music Librarianship and Archives & Records Management. She earned her BM in Music Composition and BA in Arts Management & Entrepreneurship with a minor in Public History from Baldwin Wallace University in Spring 2023. When not in class, studying, or working, Sarah enjoys drinking tea, collecting stereographs, and taking road trips to visit cat cafés and lighthouses.
-
 ## Additional Resources
 
 ##### Anderies, John F. 2002. “Ethel Louise Lyman and the Beginnings of the Indiana University Music Library.” *Notes* 59 (2): 264–87. [https://doi.org/10.1353/not.2002.0153](https://doi.org/10.1353/not.2002.0153).  
