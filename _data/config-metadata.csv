@@ -7,7 +7,7 @@ contributor, Contributor,true,
 recipient, Recipient,true,
 date_created,Date Created,,
 subject,Subjects,true,
-location,Location,,
+location,Location,true,
 source,Source Repository,,
 findingaid,Source Finding Aid URL,,true
 relation,Source URI,,
