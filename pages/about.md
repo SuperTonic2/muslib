@@ -9,6 +9,7 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1962_001.jpg" %}
 {% include feature/nav-menu.html sections="About this Collection;About the Creator;Additional Resources" %}
+
 ## About this Collection
 
 This digital collection contains documents and photographs from multiple campus repositories at Indiana University Bloomington that tell the story of how music librarianship has evolved on the University's campus. It includes materials related to the career Ethel Louise Lyman, the University's first Music Librarian; subsequent music librarians who helped build the University's music collections throughout the 20th century; the buildings and spaces that housed those music collections; and the genesis of the Music Librarianship Dual Degree and Specialization programs in the late 1970's.
@@ -25,9 +26,11 @@ It is important to note that this collection is limited in focus to the main Ind
 * [The Museum of Archaeology and Anthropology](https://iumaa.iu.edu/index.html)
 
 {% include feature/pdf.html objectid="brochure_2002_001" width="50" %}
+
 ## About the Creator: Sarah Helen Carter
 
 Sarah Helen Carter is a second-year graduate student at Indiana University Bloomington pursuing a dual MLS and MIS with dual specializations in Music Librarianship and Archives & Records Management. She earned her BM in Music Composition and BA in Arts Management & Entrepreneurship with a minor in Public History from Baldwin Wallace University in Spring 2023. When not in class, studying, or working, Sarah enjoys drinking tea, collecting stereographs, and taking road trips to visit cat cafés and lighthouses.
+
 ## Additional Resources
 
 ##### Anderies, John F. 2002. “Ethel Louise Lyman and the Beginnings of the Indiana University Music Library.” *Notes* 59 (2): 264–87. [https://doi.org/10.1353/not.2002.0153](https://doi.org/10.1353/not.2002.0153).  
