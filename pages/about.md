@@ -7,6 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
 {% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1962_001.jpg" %}
 {% include feature/nav-menu.html sections="About this Collection;About the Creator %}
 
