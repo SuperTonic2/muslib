@@ -13,7 +13,7 @@ permalink: /related.html
 *"This paper traces the life and work of Ethel Louise Lyman—her time at Indiana University (IU), and prior to that, her years at Smith College, and at Forbes Library in Northampton, Massachusetts. It also looks at
 the early history of the Indiana University Music Library (since 1996, the William & Gayle Cook Music Library), before Lyman’s appointment."*
 
-{% include feature/image.html objectid="lyman_1940_001" width="50" %} {% include feature/image.html objectid="lyman_1947_001" width="50" %}
+{% include feature/image.html objectid="lyman_1940_001;lyman_1947_001" %}
 
 ##### Cochran, Keith. 2013. “The Music Librarianship Programs at Indiana University.” *Fontes Artis Musicae* 60 (3): 217–21. [https://www.jstor.org/stable/23512682.](https://www.jstor.org/stable/23512682)  
 
