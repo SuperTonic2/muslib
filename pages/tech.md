@@ -122,7 +122,7 @@ This repository includes any parenthetical qualifiers listed in LCSH subject hea
 Metadata fields in this repository that utilize LCSH:
 * Subjects
 
-#### [Getty Thesaurus of Geographic Names (TGN)](http://id.loc.gov/authorities/names)  
+#### [Getty Thesaurus of Geographic Names (TGN)](https://www.getty.edu/research/tools/vocabularies/tgn/)  
 
 *"TGN is a unique thesaurus that is global in scope but not comprehensive, focusing on places relevant to art, architecture, and related disciplines. Included are place names, rich relationships, place types, dates, notes, and coordinates for historical and current cities, nations, empires, archaeological sites, lost settlements, and physical features"*
 
