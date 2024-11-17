@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1962_001.jpg" %}
-{% include feature/nav-menu.html sections="About this Collection;About the Creator; %}
+{% include feature/nav-menu.html sections="About this Collection;About the Creator" %}
 
 ## About this Collection
 
