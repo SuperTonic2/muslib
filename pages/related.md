@@ -1,6 +1,6 @@
 ---
 title: Related Resources
-layout: related
+layout: about
 permalink: /related.html
 ---
 {% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1955_001.jpg" %}
