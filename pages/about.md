@@ -19,7 +19,7 @@ This digital collection contains documents and photographs from multiple campus 
     * See name ["Lyman, Ethel Louise"](https://supertonic2.github.io/muslib/browse.html#lyman%2C%20ethel%20louise)
 * Subsequent music librarians who helped build the University's main music collections throughout the 20th century
     * See subject ["music librarians"](https://supertonic2.github.io/muslib/browse.html#music%20librarians)
-    * See names ["De Lerma, Dominique"](https://supertonic2.github.io/muslib/browse.html#de%20lerma%2C%20dominique), and "[Fenske, David E. (David Edward)"](https://supertonic2.github.io/muslib/browse.html#fenske%2C%20david%20e.%20(david%20edward))
+    * See names ["De Lerma, Dominique"](https://supertonic2.github.io/muslib/browse.html#de%20lerma%2C%20dominique), ["Fenske, David E. (David Edward)"](https://supertonic2.github.io/muslib/browse.html#fenske%2C%20david%20e.%20(david%20edward)), and ["Papakhian, Arsen Ralph"](https://supertonic2.github.io/muslib/browse.html#Papakhian%2C%20Arsen%20Ralph)
 * The buildings and spaces that have housed and/or currently house the University's main music collections
     * See subject ["Indiana University, Bloomington. Music Library"](https://supertonic2.github.io/muslib/browse.html#Indiana%20University%2C%20Bloomington.%20Music%20Library)
     * See locations ["B. Winfred Merrill Hall"](https://supertonic2.github.io/muslib/browse.html#B.%20Winfred%20Merrill%20Hall%20(1201%20E%203rd%20Street%2C%20Bloomington%2C%20Indiana)) and ["William and Gayle Cook Music Library"](https://supertonic2.github.io/muslib/browse.html#William%20and%20Gayle%20Cook%20Music%20Library%20(Bess%20Meshulam%20Simon%20Music%20Library%20and%20Recital%20Center%2C%20200%20S%20Eagleson%20Avenue%2C%20Bloomington%2C%20Indiana))
