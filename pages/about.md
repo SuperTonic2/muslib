@@ -26,9 +26,7 @@ This digital collection contains documents and photographs from multiple campus 
 * The genesis of the Music Librarianship Dual Degree and Specialization programs in the late 1970's
     * See subjects ["Indiana University, Bloomington. Music Librarianship Program"](https://supertonic2.github.io/muslib/browse.html#indiana%20university%2C%20bloomington.%20music%20librarianship%20program) and ["Degrees, Academic"](https://supertonic2.github.io/muslib/browse.html#Degrees%2C%20Academic)
 
-{% include feature/image.html objectid="musiclibrary_1947_003" width="50" %}
-{% include feature/image.html objectid="musiclibrary_1967_001" width="50" %}
-{% include feature/image.html objectid="musiclibrary_2000_001" width="50" %}
+{% include feature/image.html objectid="musiclibrary_1947_003;musiclibrary_1967_001;musiclibrary_2000_001" %}
 
 It is important to note that, at this time, this collection is limited in focus to the main Indiana University Bloomington Music Library (known today as the [William and Gayle Cook Music Library](https://libraries.indiana.edu/cook-music-library)), its music librarians, its previous and current locations, and the programs that have existed to train student music librarians. However, Indiana University Bloomington contains a multitude of other music repositories and repositories with exceptional music collections that are not extensively explored in this resource in its current form. These include:
 
