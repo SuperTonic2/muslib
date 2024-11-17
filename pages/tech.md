@@ -12,7 +12,7 @@ credits: true
 
 ## Metadata Application Profile  
 
-To view the full metadata schema utilized in this repository, click [here](https://docs.google.com/spreadsheets/d/1PvK1NRvZtL4LyIbZMC4yMWe5YQd6tnDZsBhuEOZfVbI/edit?usp=sharing)!
+[To view the full metadata schema utilized in this repository, click here!](https://docs.google.com/spreadsheets/d/1PvK1NRvZtL4LyIbZMC4yMWe5YQd6tnDZsBhuEOZfVbI/edit?usp=sharing)
 
 ### Context, Content, Users, and Functional Requirements
 
