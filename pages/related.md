@@ -3,7 +3,7 @@ title: Related Resources
 layout: related
 permalink: /related.html
 ---
-{% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1962_001.jpg" %}
+{% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1955_001.jpg" %}
 
 ## Related Resources
 
