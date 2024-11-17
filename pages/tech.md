@@ -52,13 +52,15 @@ This collection utilizes a combination of multiple different controlled vocabula
 #### Local Subject Headings  
 
 Indiana University, Bloomington. B. Winfred Merrill Hall  
+  
 Scope: Refers to B. Winfred Merrill Hall located at 1201 E 3rd Street, Bloomington, Indiana on the campus of Indiana University, Bloomington.  
   
 Indiana University, Bloomington. Music Librarianship Program  
+  
 Scope: Refers to any academic program at Indiana University, Bloomington that was created to train students to enter the profession of music librarianship. Includes the Music Librarianship Specialization in the Master of Library Science program and the dual degree Master of Library Science and Master of Arts in Music programs.  
   
-Metadata fields in this repository that utilize Local Subject Headings:
 
+Metadata fields in this repository that utilize Local Subject Headings:
 * Subjects  
   
 #### Local Locations  
@@ -73,43 +75,28 @@ Metadata fields in this repository that utilize Local Subject Headings:
 
 ##### Location List  
 
-B. Winfred Merrill Hall (1201 E 3rd Street, Bloomington, Indiana)  
-Coordinates: 39.1646971, -86.5182848  
-  
-Bess Meshulam Simon Music Library and Recital Center (200 S Eagleson Avenue, Bloomington, Indiana)  
-Coordinates: 39.1649980, -86.5173410  
-  
-Building Areas (use same coordinates as parent):
-
-* William and Gayle Cook Music Library (Bess Meshulam Simon Music Library and Recital Center, 200 S Eagleson Avenue, Bloomington, Indiana)  
-  
-Herman B. Wells Library, 1320 E 10th St, Bloomington, Indiana
-Coordinates: 39.1709799, -86.5171803
-
-Building Areas (use same coordinates as parent):
-
-* Graduate Library School (Herman B. Wells Library, 1320 E 10th St, Bloomington, Indiana)
-* School of Library and Information Science (Herman B. Wells Library, 1320 E 10th St, Bloomington, Indiana)  
-  
-Indiana University Memorial Union (900 E 7th Street, Bloomington, Indiana)  
-
-Coordinates: 39.1678643, -86.5247164
-
-Building Areas (use same coordinates as parent):
-
-* Georgian Room (Indiana University Memorial Union, 900 E 7th Street, Bloomington, Indiana)
-* Graduate Library School Alumni Association Office (Indiana University Memorial Union, Room M-17, 900 E 7th Street, Bloomington, Indiana)  
-  
-Margrave Apartments (736 E 3rd Street, Bloomington, Indiana)
-
-Coordinates: 39.1639121, -86.5243768  
-  
-William Lowe Bryan Hall (1020 E Kirkwood Ave, Bloomington, Indiana)
-
-Coordinates: 39.1660722, -86.5266489  
+* B. Winfred Merrill Hall (1201 E 3rd Street, Bloomington, Indiana)
+    * Coordinates: 39.1646971, -86.5182848
+* Bess Meshulam Simon Music Library and Recital Center (200 S Eagleson Avenue, Bloomington, Indiana)
+    * Coordinates: 39.1649980, -86.5173410
+    * Building Areas (use same coordinates as parent):
+        * William and Gayle Cook Music Library (Bess Meshulam Simon Music Library and Recital Center, 200 S Eagleson Avenue, Bloomington, Indiana)  
+* Herman B. Wells Library, 1320 E 10th St, Bloomington, Indiana  
+    * Coordinates: 39.1709799, -86.5171803
+    * Building Areas (use same coordinates as parent):
+        * Graduate Library School (Herman B. Wells Library, 1320 E 10th St, Bloomington, Indiana)
+        * School of Library and Information Science (Herman B. Wells Library, 1320 E 10th St, Bloomington, Indiana)  
+* Indiana University Memorial Union (900 E 7th Street, Bloomington, Indiana)  
+    * Coordinates: 39.1678643, -86.5247164
+    * Building Areas (use same coordinates as parent):
+        * Georgian Room (Indiana University Memorial Union, 900 E 7th Street, Bloomington, Indiana)
+        * Graduate Library School Alumni Association Office (Indiana University Memorial Union, Room M-17, 900 E 7th Street, Bloomington, Indiana)  
+* Margrave Apartments (736 E 3rd Street, Bloomington, Indiana)
+    * Coordinates: 39.1639121, -86.5243768  
+* William Lowe Bryan Hall (1020 E Kirkwood Ave, Bloomington, Indiana)
+    * Coordinates: 39.1660722, -86.5266489  
   
 Metadata fields in this repository that utilize Local Locations:
-
 * Location  
 * Latitude  
 * Longitude  
@@ -123,7 +110,6 @@ Metadata fields in this repository that utilize Local Locations:
 In this repository, parenthetical qualifiers that are included with a name authority are included (ex. "Adams, John (Conductor)") but dates are excluded (ex. "Adams, John Couch, 1819-1892" is just "Adams, John Couch").
 
 Metadata fields in this repository that utilize LCNAF:
-
 * Creator
 * Publisher
 * Contributor
@@ -138,7 +124,6 @@ Metadata fields in this repository that utilize LCNAF:
 This repository includes any parenthetical qualifiers listed in LCSH subject headings. It also avoids using subject subdivisions (ex. Cats--Adoption) as they are not properly supported in CollectionBuilder's browse function.
 
 Metadata fields in this repository that utilize LCSH:
-
 * Subjects
 
 #### [Getty Thesaurus of Geographic Names (TGN)](http://id.loc.gov/authorities/names)  
@@ -148,13 +133,11 @@ Metadata fields in this repository that utilize LCSH:
 Paranthetical qualifiers supplied by TGN (ex. "(inhabited place)") are excluded in this repository.
 
 Metadata field in this repository that utilize TGN:
-
 * Location
 
 #### [Rights Statements.org Standardized Rights Statements](https://rightsstatements.org/)
 
 Metadata fields in this repository that utilize Standardized Rights Statements:
-
 * Rights
 * Rights Statement
 
@@ -163,7 +146,6 @@ Metadata fields in this repository that utilize Standardized Rights Statements:
 *"The DCMI Type Vocabulary provides a general, cross-domain list of approved terms that may be used as values for the Resource Type element to identify the genre of a resource."*
 
 Metadata fields in this repository that utilize DCMI Type Vocabulary:
-
 * Type
 
 #### [ISO 639-2 Language Codes](https://www.loc.gov/standards/iso639-2/php/code_list.php)
@@ -171,5 +153,4 @@ Metadata fields in this repository that utilize DCMI Type Vocabulary:
 This repository uses Bibliographic ISO 639-2 codes (as opposed to Terminology codes).
 
 Metadata fields in this repository that utilize ISO 639-2 Language Codes:
-
 * Language
