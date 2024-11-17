@@ -39,6 +39,6 @@ It is important to note that, at this time, this collection is limited in focus 
 
 ## About the Creator
 
-{% include feature/image.html objectid="https://supertonic2.github.io/muslib/objects/cartersh_001.jpg" width="50" alt="Sarah Helen Carter at the Indiana University Bloomington Lilly Library"%}
+{% include feature/image.html objectid="https://supertonic2.github.io/muslib/objects/cartersh_001.jpg" width="50" alt="Sarah Helen Carter at the Indiana University Bloomington Lilly Library" caption="Sarah Helen Carter at the Indiana University Bloomington Lilly Library"%}
 
 Sarah Helen Carter is a second-year graduate student at Indiana University Bloomington pursuing a dual MLS and MIS with dual specializations in Music Librarianship and Archives & Records Management. She earned her BM in Music Composition and BA in Arts Management & Entrepreneurship with a minor in Public History from Baldwin Wallace University in Spring 2023. When not in class, studying, or working, Sarah enjoys drinking tea, collecting stereographs, and taking road trips to visit cat cafés and lighthouses.
