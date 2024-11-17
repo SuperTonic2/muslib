@@ -51,13 +51,10 @@ This collection utilizes a combination of multiple different controlled vocabula
 
 #### Local Subject Headings  
 
-Indiana University, Bloomington. B. Winfred Merrill Hall  
-  
-Scope: Refers to B. Winfred Merrill Hall located at 1201 E 3rd Street, Bloomington, Indiana on the campus of Indiana University, Bloomington.  
-  
-Indiana University, Bloomington. Music Librarianship Program  
-  
-Scope: Refers to any academic program at Indiana University, Bloomington that was created to train students to enter the profession of music librarianship. Includes the Music Librarianship Specialization in the Master of Library Science program and the dual degree Master of Library Science and Master of Arts in Music programs.  
+* Indiana University, Bloomington. B. Winfred Merrill Hall  
+    * Scope: Refers to B. Winfred Merrill Hall located at 1201 E 3rd Street, Bloomington, Indiana on the campus of Indiana University, Bloomington.  
+* Indiana University, Bloomington. Music Librarianship Program  
+    * Scope: Refers to any academic program at Indiana University, Bloomington that was created to train students to enter the profession of music librarianship. Includes the Music Librarianship Specialization in the Master of Library Science program and the dual degree Master of Library Science and Master of Arts in Music programs.  
   
 
 Metadata fields in this repository that utilize Local Subject Headings:
