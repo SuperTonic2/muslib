@@ -51,7 +51,7 @@ This collection utilizes a combination of multiple different controlled vocabula
 
 #### Local Subject Headings  
 
-###### Indiana University, Bloomington. B. Winfred Merrill Hall 
+###### Indiana University, Bloomington. B. Winfred Merrill Hall
 Scope: Refers to B. Winfred Merrill Hall located at 1201 E 3rd Street, Bloomington, Indiana on the campus of Indiana University, Bloomington.  
 
 ###### Indiana University, Bloomington. Music Librarianship Program
