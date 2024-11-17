@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="https://supertonic2.github.io/muslib/objects/musiclibrary_1962_001.jpg" %}
-{% include feature/nav-menu.html sections="About this Collection;About the Creator" %}
+{% include feature/nav-menu.html sections="About this Collection;About the Creator;Acknowledgements" %}
 
 ## About this Collection
 
@@ -42,3 +42,19 @@ It is important to note that, at this time, this collection is limited in focus 
 {% include feature/image.html objectid="https://supertonic2.github.io/muslib/objects/cartersh_001.jpg" width="50" alt="Sarah Helen Carter at the Indiana University Bloomington Lilly Library" caption="Sarah Helen Carter at the Indiana University Bloomington Lilly Library"%}
 
 Sarah Helen Carter is a second-year graduate student at Indiana University Bloomington pursuing a dual MLS and MIS with dual specializations in Music Librarianship and Archives & Records Management. She earned her BM in Music Composition and BA in Arts Management & Entrepreneurship with a minor in Public History from Baldwin Wallace University in Spring 2023. When not in class, studying, or working, Sarah enjoys drinking tea, collecting stereographs, and taking road trips to visit cat cafés and lighthouses.
+
+## Acknowledgements
+
+The creation of this collection would have not been possible without the existence of multiple Indiana University campus repositories and the assistance of the archivists and librarians at those repositories. 
+
+### [University Archives](https://libraries.indiana.edu/university-archives) & [Photograph Collection](https://webapp1.dlib.indiana.edu/archivesphotos/index.jsp)
+
+The vast majority of the items in this repository come from the Indiana University Archives and the Archives Photograph Collection. The University Archives staff have been an extraordinary help throughout the creation of this project, especially Outreach and Public Services Archivist Carrie Schwier and Photograph Curator Bradley Cook.
+
+### [Cook Music Library](https://libraries.indiana.edu/cook-music-library)
+
+The Cook Music Library has been extremely enthusiastic and supportive of this project since its inception. Special thanks is owed to Keith Cochran, Laikin Dantchenko, and Chuck Peters for providing insights and ideas for this project.
+
+### [Archives of Institutional Memory](https://institutionalmemory.iu.edu/aim/home)
+
+A few items in this repository come from the Archives of Institutional Memory, a digital repository of a select, but extensive, number of Indiana University records.
