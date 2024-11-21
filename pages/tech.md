@@ -18,7 +18,7 @@ credits: true
 
 **Context:** The Music Librarianship at IU digital collection consists of documents and photographs documenting the history of the music library and the music librarianship program at Indiana University Bloomington. The collection covers the hiring of IU’s first music librarian, Ethel Louise Lyman, in 1939, the start of the Graduate Library School’s Music Librarianship specialization and dual degree programs in 1979, and modern activities related to music librarianship at Indiana University into the present day.  
 
-**Content:** The collection will include digitized images and documents as well as born-digital objects retrieved from the archival collections of the Indiana University Archives, Indiana University Archives of Institutional Memory, and Indiana University Cook Music Library.  
+**Content:** The collection includes digitized images and documents as well as born-digital objects retrieved from the archival collections of the Indiana University Archives and Indiana University Archives of Institutional Memory.  
 
 **Users:** Potential user groups for the repository include past, current, and future IU music and music librarianship students; individuals researching the history of music libraries or music librarianship in general; and other institutions looking to create music librarianship programs.
 
