@@ -43,7 +43,11 @@ It is important to note that, at this time, this collection is limited in focus 
 
 Sarah Helen Carter is a second-year graduate student at Indiana University Bloomington pursuing a dual MLS and MIS with dual specializations in Music Librarianship and Archives & Records Management. She earned her BM in Music Composition and BA in Arts Management & Entrepreneurship with a minor in Public History from Baldwin Wallace University in Spring 2023. When not in class, studying, or working, Sarah enjoys drinking tea, collecting stereographs, and taking road trips to visit cat cafés and lighthouses.
 
+If you have any questions about this collection or wish to contact Sarah for any reason, feel free to email her at [sarhcart@iu.edu](mailto:sarhcart@.iu.edu) or message her on LinkedIn at [linkedin.com/in/carter-sh](https://www.linkedin.com/in/carter-sh/).
+
 ## Acknowledgements
+
+This collection was created as part of the course Z652 Digital Libraries taught by Professor John Walsh and Associate Instructor Gyuri Kang. It's existence would not have been possible without their excellent instruction and guidance. 
 
 The creation of this collection would have not been possible without the existence of multiple Indiana University campus repositories and the assistance of the archivists and librarians at those repositories. 
 
